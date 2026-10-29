@@ -1,0 +1,10 @@
+.env
+**/.env
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/node_modules/
+**/artifacts/
+**/cache/
+backend/data/
+frontend/dist/

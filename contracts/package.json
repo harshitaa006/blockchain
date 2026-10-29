@@ -1,0 +1,18 @@
+{
+  "name": "proofbridge-contracts",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "demo:local": "hardhat run scripts/demo.js --network localhost"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "5.6.1",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.14.0",
+    "hardhat": "^2.26.3"
+  }
+}

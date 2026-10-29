@@ -1,0 +1,5 @@
+DEMO MODE: Simulated tracking evidence for software demonstration only.
+Shipment ID: PKG-7821
+Status: DELIVERED
+Delivered at: 2026-10-28T14:32:00Z
+Supporting evidence: Sample event says package delivered to recipient.
